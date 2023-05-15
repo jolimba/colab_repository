@@ -1,2 +1,2 @@
 # colab_repository
-Na verdade isso é um backup, esses notebooks são estudos sobre ML.
+Na verdade isso é um backup. Esses notebooks são estudos sobre ML.
